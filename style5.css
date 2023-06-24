@@ -61,9 +61,15 @@ img{
 
 p{
  color: rgb(131, 201, 52);
+ font-size: 25px;
 }
 
 img{
   width: 350px;height: 550px;
-  text-align: center;
+  margin-left: 30px;
+  background-color: cornflowerblue ;
+}
+
+h1{
+  font-size: 30px;
 }

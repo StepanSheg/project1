@@ -149,3 +149,20 @@ h1{
     text-shadow: 2px 2px 20px rgba(0,0,0,0.2);
     line-height: 1.4;
   }
+
+  .pre{
+    width: 1000px;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 40px;
+
+  }
+
+  h1{
+    margin-top: 40px;
+  
+  }
+
+  nav{
+    margin-top: 40px;
+  }
